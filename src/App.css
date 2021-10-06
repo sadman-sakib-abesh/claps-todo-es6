@@ -1,0 +1,51 @@
+.logo{
+  justify-content: center;
+  border-bottom: 1px solid lightgray;
+}
+a{
+  color: black;
+  
+  
+ 
+}
+.logo{
+  justify-content: center;
+  border-bottom: 1px solid lightgray;
+}
+b{
+  color: black;
+  font-size: x-large;
+  font-family: Brush Script MT;
+ 
+}
+
+
+#in{
+  border-top:0px;
+  border-left:0px;
+  border-right:0px;
+  border-bottom:3px solid black;
+}
+#btn-add{
+  background-color:#f7982d;
+  border:0px;
+  font-size:18px;
+  color:white;
+  }
+
+  #form{
+    box-shadow:0 0px 4px 1px lightgray;
+    width:90%;
+    height:100px;
+    border-radius:25px;
+    }
+
+    #del{
+      color:rgb(236, 128, 151);
+      font-size: 15px;
+    }
+    #earn{
+      color: rgb(70, 67, 67);
+      font-size: xx-large;
+      border:1px solid lightgray;
+    }
